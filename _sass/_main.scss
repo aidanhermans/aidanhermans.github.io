@@ -1,5 +1,6 @@
 body {
-	background-repeat: url("/assets/img/clouds.jpg");
+	background-image: url("/assets/img/clouds.jpg");
+	background-repeat: repeat;
 	font-family: helvetica, sans-serif, serif, monospace;
 	font-size: 13px;
 }
