@@ -1,1 +1,18 @@
 remote_theme: h01000110/windows-95
+
+# variables
+name: aidan hermans
+description: 
+google_verification: null
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
